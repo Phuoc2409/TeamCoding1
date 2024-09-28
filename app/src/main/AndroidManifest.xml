@@ -13,7 +13,11 @@
         android:theme="@style/Theme.TestTeamCoding"
         tools:targetApi="31">
         <activity
+<<<<<<< HEAD
             android:name=".quocanh"
+=======
+            android:name=".MainActivity2"
+>>>>>>> 5635105a4816a89240b9f584c7c76ed24bf67caa
             android:exported="false" />
         <activity
             android:name=".MainActivity"
